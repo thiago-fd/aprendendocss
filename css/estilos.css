@@ -1,0 +1,25 @@
+body {
+    background: #0099ff;
+  } 
+  
+  a {
+    text-decoration: none;
+  }
+  
+  a:hover{
+    text-decoration: underline;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .site-subtitle,
+  .site-title{
+    color: whitesmoke;
+    text-align:center;
+  }
+  
+  .site-subtitle{
+    font-style: italico;
+  }
